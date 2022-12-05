@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Kompanion.Api.props" />
+</Project>
